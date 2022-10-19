@@ -7,6 +7,6 @@ pip install imutils
 print(cv2.__version__) #4.5.4
 print(imutils.__version__) #0.5.4
 
-
+相機型號: UI-5240LE-C-5
 IDS device parameter
 最大解析度 :1280 x 1024
